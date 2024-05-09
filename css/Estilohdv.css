@@ -1,0 +1,29 @@
+.opciones{
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 30px;
+}
+
+.opciones ul li a{
+     list-style-type: none;
+     margin-right: 0;
+     padding: 0;
+}
+
+.opciones ul li{
+    display: inline;
+    margin: right 40px; ;
+}
+
+.opciones ul li a{
+    display: inline-block;
+    padding: 10px, 20px;
+    color: black;
+    text-decoration:none;
+}
+
+.otro{
+    background-color: blanchedalmond;
+}
+
